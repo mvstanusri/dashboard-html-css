@@ -4,11 +4,11 @@ A responsive Admin Dashboard built using **HTML** and **CSS Grid** as part of **
 
 ## 🚀 Live Demo
 
-🔗 https://your-github-username.github.io/admin-dashboard/
+🔗 https://mvstanusri.github.io/dashboard-html-css/
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/your-github-username/admin-dashboard
+🔗 https://github.com/mvstanusri/dashboard-html-css
 
 ---
 
@@ -62,7 +62,7 @@ While building this project, I practiced:
 
 ## 📸 Screenshot
 
-![Admin Dashboard](./screenshot.png)
+!![alt text](image.png)
 
 ---
 
@@ -95,7 +95,7 @@ admin-dashboard/
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - The Odin Project
 - Google Fonts
