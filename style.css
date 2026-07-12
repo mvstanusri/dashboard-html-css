@@ -54,8 +54,13 @@ ul{
   background-color: whitesmoke;
   grid-column-start: 2;
   grid-column-end: 3;
+<<<<<<< HEAD
  
    padding: 26px 20px;
+=======
+  padding: 26px 20px;
+  padding-bottom:10px;
+>>>>>>> 6f7dff91fada65f4bd33d7e703adaf4234ffdc25
   border-left: 8px solid rgb(174, 226, 255);
   border-radius: 10px;
   box-shadow: 0 0 6px 1px rgba(0, 0, 0, 0.1);
@@ -68,6 +73,7 @@ ul{
   grid-column-end: 4;
   
   padding: 26px 15px;
+  padding-bottom:10px;
   border-left: 8px solid rgb(174, 226, 255);
   border-radius: 10px;
    border-radius: 10px;
