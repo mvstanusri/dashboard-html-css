@@ -175,7 +175,8 @@ ul{
 }
 input{
   height: 30px;
-  width: 600px;
+  width:100%;
+  max-width:600px;
   border-radius: 25px;
   background-color:rgb(181, 186, 255);
   border:1px solid whitesmoke;
