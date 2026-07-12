@@ -43,17 +43,21 @@ main{
 ul{
     list-style-type: none;
 }
-.projects{
+
+  .projects{
   display: grid;
-  grid-template-columns: 40px 1fr  1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 20px;
 }
+.card1,
+.card2{
+  grid-column: auto;
+}
+
 
 .card1{
   background-color: whitesmoke;
-  grid-column-start: 2;
-  grid-column-end: 3;
+  
   padding: 26px 20px;
   border-left: 8px solid rgb(174, 226, 255);
   border-radius: 10px;
@@ -63,8 +67,7 @@ ul{
 }
 .card2{
   background-color: whitesmoke;
-  grid-column-start: 3;
-  grid-column-end: 4;
+  
   padding: 26px 15px;
   border-left: 8px solid rgb(174, 226, 255);
   border-radius: 10px;
@@ -145,7 +148,7 @@ ul{
 }
 .lastis{
   display: flex;
-  flex-direction: coloum;
+  flex-direction: coloumn;
 }
 
 .search{
@@ -191,9 +194,8 @@ input{
 
 .header{
   display: grid;
-  grid-template-columns: 900px 1fr 1fr;
- 
- 
+  grid-template-columns: 1fr auto;
+  gap: 20px;
 }
 .pfp1{
    border-radius: 50%;
