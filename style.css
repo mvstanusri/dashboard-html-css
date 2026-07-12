@@ -11,6 +11,10 @@ body{
   background-color: rgb(181, 186, 255);
  
 }
+body::selection{
+  background-color: white;
+  color: rgb(174, 226, 255);
+}
 
 aside{
   grid-area: sidebar;
@@ -49,7 +53,7 @@ ul{
   background-color: whitesmoke;
   grid-column-start: 2;
   grid-column-end: 3;
-  padding: 15px 20px;
+  padding: 26px 20px;
   border-left: 8px solid rgb(174, 226, 255);
   border-radius: 10px;
   box-shadow: 0 0 6px 1px rgba(0, 0, 0, 0.1);
@@ -60,7 +64,7 @@ ul{
   background-color: whitesmoke;
   grid-column-start: 3;
   grid-column-end: 4;
-  padding: 10px 15px;
+  padding: 26px 15px;
   border-left: 8px solid rgb(174, 226, 255);
   border-radius: 10px;
    border-radius: 10px;
@@ -118,7 +122,7 @@ box-shadow: 0 0 6px 1px rgba(0, 0, 0, 0.1);
   box-shadow: 0 0 6px 1px rgba(0, 0, 0, 0.1);   
 }
 .announcements hr{
-  border: none;
+  border: 1px;
 
 }
 .announcements h5{
