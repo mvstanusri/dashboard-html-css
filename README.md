@@ -4,8 +4,10 @@ A responsive Admin Dashboard built using **HTML** and **CSS Grid** as part of **
 
 ## 🚀 Live Demo
 
-🔗 https://tanxdebug.github.io/dashboard-html-css/
+🔗 https://mvstanusri.github.io/dashboard-html-css/
 
+## Screenshot
+![Uploading image.png…]()
 
 
 ## 📖 About
