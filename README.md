@@ -6,8 +6,7 @@ A responsive Admin Dashboard built using **HTML** and **CSS Grid** as part of **
 
 🔗 https://mvstanusri.github.io/dashboard-html-css/
 
-## Screenshot
-![Uploading image.png…]()
+
 
 
 ## 📖 About
