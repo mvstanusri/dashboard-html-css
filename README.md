@@ -103,6 +103,3 @@ admin-dashboard/
 
 **M.V.S. Tanusri**
 
-GitHub: https://github.com/mvstanusri
-
-LinkedIn: https://www.linkedin.com/in/m-v-s-tanusri-2a010b382/
